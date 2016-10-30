@@ -1,3 +1,0 @@
-just a text file to pull from the repository and test how it works
-
-just a short text to be added for feature1 branch
